@@ -18,7 +18,7 @@
 
 ```html
     <div class="resultado">
-            <h2 class="cero">0</h2>
+        <h2 class="cero">0</h2>
     </div>
 ```
 - h2: Etiqueta de subtitulos
